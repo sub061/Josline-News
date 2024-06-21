@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "news-alert",
+    "libraryId": "8be00ef7-6ac2-42f1-8aa9-79d9d8042569",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "news-alert",
+    "solutionShortDescription": "news-alert description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
